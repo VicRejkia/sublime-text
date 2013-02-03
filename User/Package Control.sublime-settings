@@ -3,6 +3,8 @@
 	[
 		"Alignment",
 		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
+		"ERB Snippets",
 		"Sass",
 		"SideBarEnhancements"
 	]
