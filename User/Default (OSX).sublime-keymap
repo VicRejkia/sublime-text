@@ -1,2 +1,14 @@
 [
+{"keys": ["'"], "command": "insert_snippet", "args": {"contents": "\"${0:$SELECTION}\""}, "context":
+  [
+    {"key": "setting.auto_match_enabled", "operator": "equal", "operand": true},
+    {"key": "selection_empty", "operator": "equal", "operand": false, "match_all": true}
+  ]
+},
+{"keys": ["ctrl+shift+."], "command": "erb", "context":
+  [
+    {"key": "selector", "operator": "equal", "operand": "text.html.ruby, source.yaml, source.css, source.scss, source.js"}
+  ]
+}
+
 ]
