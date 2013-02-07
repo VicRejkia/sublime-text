@@ -2,12 +2,15 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"CoffeeScript",
 		"DetectSyntax",
 		"ERB Insert and Toggle Commands",
 		"ERB Snippets",
+		"LESS",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"Sass",
+		"SCSS",
 		"SideBarEnhancements",
 		"Theme - Soda"
 	]
