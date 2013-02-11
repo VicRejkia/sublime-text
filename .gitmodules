@@ -1,0 +1,3 @@
+[submodule "Factory-Girl-TextMate-Bundle"]
+	path = Factory-Girl-TextMate-Bundle
+	url = git://github.com/caironoleto/Factory-Girl-TextMate-Bundle.git
