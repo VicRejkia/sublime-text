@@ -1,18 +1,30 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
+		"Alternative Autocompletion",
 		"CoffeeScript",
 		"DetectSyntax",
+		"DocBlockr",
+		"Emmet",
 		"ERB Insert and Toggle Commands",
 		"ERB Snippets",
+		"Gist",
+		"Git",
 		"LESS",
+		"Nettuts+ Fetch",
 		"Package Control",
+		"PlainTasks",
+		"Prefixr",
 		"RailsCasts Colour Scheme",
 		"RSpec",
+		"RubyTest",
 		"Sass",
 		"SCSS",
 		"SideBarEnhancements",
-		"Theme - Soda"
+		"SideBarGit",
+		"Theme - Soda",
+		"VintageEx"
 	]
 }
